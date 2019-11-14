@@ -1,0 +1,19 @@
+.nav {
+  padding-left: 90;
+  padding-right: 90;
+}
+
+.button {
+  font-size: 2rem;
+  width: 200px;
+  color: #fafafa !important;
+  text-transform: none !important;
+}
+
+.toolsContainer {
+  background-color: cadetblue;
+  color: #fafafa !important;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

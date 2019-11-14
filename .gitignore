@@ -37,3 +37,4 @@ phpunit.xml
 .couscous
 /docker-compose-local.yml
 .settings
+/production/*

@@ -1,0 +1,41 @@
+.container {
+	background-color: #fafafa;
+	padding: auto;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+}
+
+.paper {
+	background-color: black;
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding: 20px 50px;
+    width: 80%;
+    max-width: 600px; 
+}
+
+.account-paper {
+	margin: auto;
+	margin-top: 50px;
+	padding: 20px;
+    width: 80%;
+    max-width: 600px; 	
+}
+
+.input {
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+
+.title {
+	margin-top: 30px !important;
+}
+
+.button {
+	/*font-size: 2rem;
+	color: black !important;
+	background-color: blue;
+	text-transform: none !important;*/
+}
